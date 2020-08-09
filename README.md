@@ -31,8 +31,17 @@ This project was made for a client who worked for Singapore Heineken company. Th
 <hr/>
 <h3 align="center">Pictures</h3>
 <p align="center">
+  When user buys 4x20 Heineken Pack, he should scan QR Code that's on a pack which leads him to official Heineken Trolley Promotion Entry Form (image 1). Customer must enter correct info, add receipt image and submit form.
   <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/Entry.png"><br/>
-  <b>Image 1 - Entry</b>
-  <p>When user buys 4x20 Heineken Pack, he should scan QR Code that's on a pack which leads him to official Heineken Trolley Promotion Entry Form (picture above). Customer must enter correct info, add receipt image and submit form. </p>
+  <b>Image 1 - Step 1 - Entry Form</b>
+</p>
+<br/><br/>
+<p align="center">
+  If users receipt has been aproved by admin, he receives confirmation code and link to confirmation website through email and WhatsApp message. User must enter confirmation code and select self collection (image 2) or delivery option (image 3). If user selects delivery option, he is able to pay with Paypal or Credit card.
+  <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/Confirmation_SelfCollection.png"><br/>
+  <b>Image 2 - Step 2 - Confirmation Form - Self Collection </b>
+  <br/><br/>
+  <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/Confirmation_HomeDelivery.png"><br/>
+  <b>Image 3 - Step 2 - Confirmation Form - Home Delivery </b>
 </p>
 <br/><br/>
