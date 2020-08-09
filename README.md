@@ -1,5 +1,9 @@
 <center><h1>Heineken Trolley Promotion 2020.</h1></center>
-<hr>
+<hr/>
+<p align="center">
+<img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/Logo.png" />
+</p>
+<hr/>
 This was a *freelacing project*.
 Code for this website is private due to client protection. 
 <hr/>
