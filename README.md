@@ -2,8 +2,6 @@
 <hr>
 This was a *freelacing project*.
 Code for this website is private due to client protection. 
-<hr>
-This project was made for a client who worked for Singapore Heineken company. The goal of this website was to create a Trolley Promotion where customer buys 4x20 Heineken Pack on a single receipt and uploads it on Heineken website with additional info. After that, admin can approve/reject his receipt. If the receipt is approved, an approval email and WhatsApp message with confirmation code is sent to client. Otherwise, rejection email and WhatsApp message is sent to client. If client receipt is accepted, he must fill in another form with confirmation code and choose whether he is going to self-collect his reward or he is going to wait for delivery of his reward.
 <hr/>
 <h3 align="center">Technology Stack</h3>
 <table>
@@ -14,7 +12,10 @@ This project was made for a client who worked for Singapore Heineken company. Th
   </tr>
 </table>
 <hr/>
-
+<h3 align="center">Description</h3>
+<hr/>
+This project was made for a client who worked for Singapore Heineken company. The goal of this website was to create a Trolley Promotion where customer buys 4x20 Heineken Pack on a single receipt and uploads it on Heineken website with additional info. After that, admin can approve/reject his receipt. If the receipt is approved, an approval email and WhatsApp message with confirmation code is sent to client. Otherwise, rejection email and WhatsApp message is sent to client. If client receipt is accepted, he must fill in another form with confirmation code and choose whether he is going to self-collect his reward or he is going to wait for delivery of his reward.
+<hr/>
 <b>Webpage contains:</b><br>
 <ul>
   <li>Entry Form</li>
@@ -28,6 +29,8 @@ This project was made for a client who worked for Singapore Heineken company. Th
   <li>WhatsApp Integration</li>
 </ul>
 <br>
+
+
 
 
 Bellow this text, there are some pictures of a website.<br>
