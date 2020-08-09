@@ -28,10 +28,11 @@ This project was made for a client who worked for Singapore Heineken company. Th
   <li>Interactive Multiple Filter & Search Box</li>
   <li>WhatsApp Integration</li>
 </ul>
-<br>
-
-
-
-
-Bellow this text, there are some pictures of a website.<br>
-*Home page*
+<hr/>
+<h3 align="center">Pictures</h3>
+<p align="center">
+  <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/Entry.png"><br/>
+  <b>Image 1 - Entry</b>
+  <p>When user buys 4x20 Heineken Pack, he should scan QR Code that's on a pack which leads him to official Heineken Trolley Promotion Entry Form (picture above). Customer must enter correct info, add receipt image and submit form. </p>
+</p>
+<br/><br/>
