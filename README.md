@@ -43,6 +43,7 @@ This project was made for a client who worked for Singapore Heineken company. Th
   <br/><br/>
   <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/Confirmation_HomeDelivery.png"><br/>
   <b>Image 3 - Step 2 - Confirmation Form - Home Delivery </b>
+  <br/><br/>
   <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/ConfirmationMessage.png"><br/>
   <b>Image 4 - One of many types of confirmation message </b>
   
