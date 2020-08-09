@@ -43,5 +43,49 @@ This project was made for a client who worked for Singapore Heineken company. Th
   <br/><br/>
   <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/Confirmation_HomeDelivery.png"><br/>
   <b>Image 3 - Step 2 - Confirmation Form - Home Delivery </b>
+  <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/ConfirmationMessage.png"><br/>
+  <b>Image 4 - One of many types of confirmation message </b>
+  
 </p>
+<hr/>
+<p align="center">
+  Website also contains admin panel. To see admin panel, a login is required. Any admin can add, update or delete other admins.<br/><br/>
+  <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/AdminPanel_Users.png"><br/>
+  <b>Image 4 - Admin Panel- CRUD Admins</b>
+</p>
+<hr/>
+<p align="center">
+  Admin is able to see all the entries from user on submission entries panel. Admin is able to see Date & Time of submission, whether a package is reedemed or not, full name of customer, customer mobile phone, customers email, customers NRIC/FIN, receipt image, chosen delivery mode, status (rejected/approved), confirmation code, whether user accepted marketing rules payment transaction details, notes, chosen redemption location, check and edit entry or confirmation form, approve or reject receipt and send WhatsApp message.<br/><br/>
+  <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/AdminPanel_SubmissionEntries.png"><br/>
+  <b>Image 5 - Admin Panel - Submission Entries</b>
+  <br/><br/>
+  <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/AdminPanel_SubmissionEntries_Filter.png"><br/>
+  <b>Image 6 - Admin Panel - Filtered Submission Entries</b>
+</p>
+<hr/>
+<p align="center">
+  Admin is able to send WhatsApp message to customer which give specific information about order.<br/><br/>
+  <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/AdminPanel_WhatsAppMessage.png"><br/>
+  <b>Image 7 - Sending one of many types of WhatsApp messages</b>
+</p>
+<hr/>
+<p align="center">
+  Admin has a permission to edit customers entry or confirmation forms. There is a red text that shows that we're currently in admin editing mode. This operation is only possible if user is logged in as an admin.<br/><br/>
+  <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/Admin_EditEntry.png"><br/>
+  <b>Image 8 - Admin Panel - Edit Entry Form</b>
+  <br/><br/>
+  <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/Admin_EditConfirmation.png"><br/>
+  <b>Image 9 - Admin Panel - Edit Confirmation Form</b>
+</p>
+<hr/>
+<p align="center">
+  Admin is also able to export excel for all submission entries data.<br/><br/>
+  <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Heineken_Trolley_Promotion/blob/master/ExcelExport.png"><br/>
+  <b>Image 10 - Exported Submission Entries Excel</b>
+</p>
+<hr/>
+
+
+
+
 <br/><br/>
